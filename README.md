@@ -29,4 +29,4 @@ This is a simple, educational reimplementation of the Unix cp (copy) command in 
 
 ## Author
 
-    GitHub: [@jeydev](https://github.com/insaneonai)
+GitHub: [@jeydev](https://github.com/insaneonai)
