@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/CopyCat.dir/main.c.o CMakeFiles/CopyCat.dir/src/simplecopy.c.o -o CopyCat

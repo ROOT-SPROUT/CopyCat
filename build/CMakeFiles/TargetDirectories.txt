@@ -1,0 +1,3 @@
+/mnt/c/Users/Jeyadevan/Desktop/REPOSITORIES/Personal/CopyCat/build/CMakeFiles/CopyCat.dir
+/mnt/c/Users/Jeyadevan/Desktop/REPOSITORIES/Personal/CopyCat/build/CMakeFiles/edit_cache.dir
+/mnt/c/Users/Jeyadevan/Desktop/REPOSITORIES/Personal/CopyCat/build/CMakeFiles/rebuild_cache.dir
