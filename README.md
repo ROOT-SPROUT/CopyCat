@@ -26,3 +26,7 @@ This is a simple, educational reimplementation of the Unix cp (copy) command in 
    ```bash
    ./CopyCat -h
    ```
+
+## Author
+
+    [Jeydev] -[https://github.com/insaneonai]
